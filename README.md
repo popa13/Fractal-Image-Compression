@@ -4,6 +4,8 @@ To store images on a computer, there are many compression scheme that do exist t
 
 In this repository, you will find a pdf document and program which implements the Jacquin's method to compress images with fractals. It is not the most efficient, but it is the easiest to implement in a classroom project (there is a implementations of fractal compression scheme called FIF for Fractal Image Format). For more details on these methods, you can go to the [wikipedia page](https://en.wikipedia.org/wiki/Fractal_compression) or read the pdf file rapport-final.pdf in Documents et présentation of this repository.
 
+To use the program, please refer to the guide_utilisateur_final.pdf in Document et présentation.
+
 ## Details of the program
 The software is divided into 3 distinct projects: MathTools and ImageTools are two library-like projects that allow the reuse of code relevant to be reused, and ImageCompressionTool which provides the graphical interface to work with the fractal compression. 
 
