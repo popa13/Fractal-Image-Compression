@@ -1,0 +1,10 @@
+D:\Projets\Université\Automne 2015\MathTools\MathTools\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\MathTools\MathTools\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\MathTools\obj\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\MathTools\MathTools\obj\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\MathTools\obj\Debug\MathTools.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\obj\Debug\MathTools.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\obj\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\obj\Debug\MathTools.pdb

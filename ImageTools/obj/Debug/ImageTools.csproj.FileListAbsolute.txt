@@ -1,0 +1,13 @@
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\bin\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\bin\Debug\ImageTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\obj\Debug\ImageTools.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\obj\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\MathTools\ImageTools\obj\Debug\ImageTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Debug\ImageTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\obj\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\obj\Debug\ImageTools.pdb

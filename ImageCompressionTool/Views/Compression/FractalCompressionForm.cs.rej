@@ -1,0 +1,9 @@
+diff a/ImageCompressionTool/Views/Compression/FractalCompressionForm.cs b/ImageCompressionTool/Views/Compression/FractalCompressionForm.cs	(rejected hunks)
+@@ -58,7 +58,6 @@
+             if (_fractalResult != null && imgComparisonControl.HasOriginalImage)
+             {
+                 var compression = new FractalCompression(GetFractalCompressionOptions());
+-                compression.Uncompress(_fractalResult, new CustomImage(imgComparisonControl.OriginalImage));
+                 try
+                 {
+                     var img = compression.Uncompress(_fractalResult, new CustomImage(imgComparisonControl.OriginalImage));

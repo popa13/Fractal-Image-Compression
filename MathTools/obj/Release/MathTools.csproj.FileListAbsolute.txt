@@ -1,0 +1,4 @@
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\bin\Release\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\bin\Release\MathTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\obj\Release\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\MathTools\obj\Release\MathTools.pdb

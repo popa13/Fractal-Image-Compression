@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImageCompressionTool.Controllers.MainController">
+    <Position X="3.5" Y="1.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Controllers\MainController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressionTool.Views.Compression.BaseCompressionForm">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\Compression\BaseCompressionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressionTool.Views.Compression.FractalCompressionForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ICAAQgUAAygIABIAAwCAQIBCAAAAMEAgACAAAAJgAIA=</HashCode>
+      <FileName>Views\Compression\FractalCompressionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressionTool.Views.Controls.ImageComparisonControl" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QCIClIQAACAAARgkAADAAACCAhAkgAAABCAFAAAAQGQ=</HashCode>
+      <FileName>Views\Controls\ImageComparisonControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressionTool.Views.MainForm" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAsgAAAiAQAAAAJAKCUgIGgAAAAAAQAiEEAEAgAAE=</HashCode>
+      <FileName>Views\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageCompressionTool.Views.Compression.ImageDifferenceForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAICAAAECAAAAQBAAAIAAAAIAAAA=</HashCode>
+      <FileName>Views\Compression\ImageDifferenceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

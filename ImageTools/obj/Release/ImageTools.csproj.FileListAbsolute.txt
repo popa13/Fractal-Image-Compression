@@ -1,0 +1,7 @@
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Release\ImageTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Release\ImageTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Release\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\bin\Release\MathTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\obj\Release\ImageTools.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\obj\Release\ImageTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageTools\obj\Release\ImageTools.pdb

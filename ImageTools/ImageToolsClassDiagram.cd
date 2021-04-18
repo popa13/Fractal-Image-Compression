@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImageTools.Compression.Fractal.FractalCompression">
+    <Position X="8.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAARAAAACAIAAMAAABGRABAgAICAIAAACIAAQ=</HashCode>
+      <FileName>Compression\Fractal\FractalCompression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.Compression.Fractal.FractalCompressionOptions">
+    <Position X="8.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Compression\Fractal\FractalCompressionOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.Compression.Fractal.FractalCompressionResult">
+    <Position X="6" Y="5.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ImageTools.Compression.Fractal.FractalCompressionResult.FractalTransformation">
+        <TypeIdentifier>
+          <NewMemberFileName>Compression\Fractal\FractalCompressionResult.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Compression\Fractal\FractalCompressionResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.CustomImage">
+    <Position X="8.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAMQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.Pixel">
+    <Position X="6" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>iIACAACAAAQAAgAkBAFAAAAAABAgAAABAAAAATAgIAA=</HashCode>
+      <FileName>Pixel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageReaders.DefaultImageReader" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageReaders\DefaultImageReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageReaders.FractalImageReader" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageReaders\FractalImageReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageReaders.ImageReader&lt;T&gt;">
+    <Position X="2" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageReaders\ImageReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageWriters.DefaultImageWriter" Collapsed="true">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageWriters\DefaultImageWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageWriters.FractalImageWriter" Collapsed="true">
+    <Position X="2.75" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageWriters\FractalImageWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.ImageWriters.ImageWriter&lt;T&gt;">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAEAAAA=</HashCode>
+      <FileName>ImageWriters\ImageWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.Transformations.AffineTransformation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAQAAAAAAECAQAAEAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transformations\AffineTransformation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ImageTools.Transformations.GreyscaleTransformation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transformations\GreyscaleTransformation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ImageTools.Utils.BitArrayExtensions" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQEA=</HashCode>
+      <FileName>Utils\BitArrayExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageTools.Utils.CustomTimer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\CustomTimer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ImageTools.Utils.ImageUtils">
+    <Position X="3.25" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAIAAgKAAAAAAIAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils\ImageUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ImageTools.Transformations.IPictureTransformation">
+    <Position X="0.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Transformations\IPictureTransformation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,31 @@
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.Compression.FractalCompressionForm.resources
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.Controls.ImageComparisonControl.resources
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.MainForm.resources
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.Properties.Resources.resources
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.csproj.GenerateResource.Cache
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\ImageCompressionTool.exe.config
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\ImageCompressionTool.exe
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\ImageCompressionTool.pdb
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\ImageTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.exe
+D:\Projets\Université\Automne 2015\MathTools\ImageCompressionTool\obj\Debug\ImageCompressionTool.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\ImageCompressionTool.exe.config
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.exe
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\ImageCompressionTool.exe
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\ImageCompressionTool.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\ImageTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\MathTools.dll
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\ImageTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\bin\Debug\MathTools.pdb
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.csprojResolveAssemblyReference.cache
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.Compression.FractalCompressionForm.resources
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.Compression.ImageDifferenceForm.resources
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.Controls.ImageComparisonControl.resources
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.Views.MainForm.resources
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.Properties.Resources.resources
+D:\Projets\Université\Automne 2015\Remise Fractales\ImageCompressionTool\obj\Debug\ImageCompressionTool.csproj.GenerateResource.Cache
