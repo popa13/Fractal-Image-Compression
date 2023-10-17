@@ -1,6 +1,6 @@
 # Fractal-Image-Compression
 
-To store images on a computer, there are many compression scheme that do exist to accomplish this task. The main characters in this industry are JPEG, JPEG 200, SVG and PNG. However, there is a fifth one which is interesting because it uses fractals to compress images. 
+To store images on a computer, there are many compression scheme that do exist to accomplish this task. The main players in this industry are JPEG, JPEG 200, SVG and PNG. However, there is a fifth one which is interesting because it uses fractals to compress images. 
 
 In this repository, you will find a pdf document and program which implements the Jacquin's method to compress images with fractals. It is not the most efficient, but it is the easiest to implement in a classroom project (there is a implementations of fractal compression scheme called FIF for Fractal Image Format). For more details on these methods, you can go to the [wikipedia page](https://en.wikipedia.org/wiki/Fractal_compression) or read the pdf file rapport-final.pdf in Documents et présentation of this repository.
 
